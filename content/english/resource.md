@@ -14,7 +14,7 @@ draft: false
 [RGPDB:Database of Root Genes and Promoters in maize](http://sysbio.unl.edu/RGPDB/maize.php)  
 [ZEAMAP](http://www.zeamap.com/)  
 [maizeGDB](https://maizegdb.org/)  
-[]()  
+[玉米系谱数据库](http://www.maizedata.cn/?erowr)  
 []()  
 []()  
 []()  

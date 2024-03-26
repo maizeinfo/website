@@ -1,4 +1,3 @@
-<<<<<<< HEAD:config/_default/menus.en.toml
 ############# English navigation ##############
 
 # main menu
@@ -70,69 +69,3 @@ weight = 1
 name = "Privacy Policy"
 url = "privacy-policy/"
 weight = 2
-=======
-############# English navigation ##############
-
-# main menu
-[[main]]
-name = "Home"
-pageRef = "/"
-weight = 1
-
-[[main]]
-name = "About"
-pageRef = "/about"
-weight = 2
-
-[[main]]
-name = "Elements"
-pageRef = "/elements"
-weight = 3
-
-[[main]]
-weight = 4
-name = "Pages"
-hasChildren = true
-
-[[main]]
-parent = "Pages"
-name = "Blog"
-pageRef = "/blog"
-
-[[main]]
-parent = "Pages"
-name = "Contact"
-pageRef = "/contact"
-
-[[main]]
-parent = "Pages"
-name = "Authors"
-pageRef = "/authors"
-
-[[main]]
-parent = "Pages"
-name = "Categories"
-pageRef = "/categories"
-
-[[main]]
-parent = "Pages"
-name = "404 Page"
-pageRef = "/404"
-
-
-# footer menu
-[[footer]]
-name = "About"
-pageRef = "/about"
-weight = 1
-
-[[footer]]
-name = "Elements"
-pageRef = "/elements"
-weight = 2
-
-[[footer]]
-name = "Privacy Policy"
-pageRef = "/privacy-policy"
-weight = 3
->>>>>>> 3f04316dca976f022d8f3d39b4db755158eb2a59:exampleSite/config/_default/menus.en.toml
