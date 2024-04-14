@@ -27,45 +27,6 @@ url = "resource/"
 weight = 3
 
 
-[[main]]
-weight = 4
-name = "Pages"
-hasChildren = true
-
-[[main]]
-parent = "Pages"
-name = "Blog"
-url = "blog/"
-
-[[main]]
-parent = "Pages"
-name = "Contact"
-url = "contact/"
-
-[[main]]
-parent = "Pages"
-name = "Authors"
-url = "authors/"
-
-[[main]]
-parent = "Pages"
-name = "Categories"
-url = "categories/"
-
-[[main]]
-parent = "Pages"
-name = "404 Page"
-url = "404/"
-
-
 # footer menu
 
-[[footer]]
-name = "Elements"
-url = "elements/"
-weight = 1
 
-[[footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
-weight = 2

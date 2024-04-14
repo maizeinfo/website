@@ -1,6 +1,6 @@
 ---
 title: John Doe
-email: johndoe@email.com
+email: yihandong17@163.com
 image: "/images/avatar.png"
 description: this is meta description
 social:
